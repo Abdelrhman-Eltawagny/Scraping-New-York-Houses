@@ -1,7 +1,7 @@
-# Scraping-New-York-Houses
+# New York City House Data Scraper
 This project is a Python-based web scraping tool designed to gather real estate data from Redfin.com for properties located in New York. Redfin is a popular online platform that provides detailed information about houses, condos, and apartments available for sale or rent.
 
-Key Features:
+## Key Features:
 
 - Efficiently scrape data from Redfin.com for New York houses.
 - Utilizes regular expressions and BeautifulSoup for robust data extraction.
